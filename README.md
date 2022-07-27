@@ -4,4 +4,4 @@ Rust Materials for new comers
 
 ## TABLE OF CONTENTS
 
-* [Rust Book and Links](./RustBooks/README.md)
+* [Rust Books](./RustBooks/README.md)
