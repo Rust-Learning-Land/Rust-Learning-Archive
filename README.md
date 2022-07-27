@@ -12,7 +12,7 @@ Rust Materials for new comers
 
 <details>
   <summary>RUST BOOK LIST (Click to expand)</summary>
-[![Build Status](https://travis-ci.org/sger/RustBooks.svg?branch=master)](https://travis-ci.org/sger/RustBooks)
+
 
 Rust Books
 ====
