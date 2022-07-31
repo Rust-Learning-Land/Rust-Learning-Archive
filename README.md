@@ -6,6 +6,7 @@ Rust Materials for new comers
 
 * [Rust Books](./RustBooks/README.md)
 * [Rust Links](./RustLinks/README.md)
+* [Rust Security](./RustSecurity/README.md)
 
 
 
